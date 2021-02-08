@@ -1,0 +1,42 @@
+body{
+    background: #F9F0F0; 
+}
+
+.my-name { color: #A67A76; }
+
+hr { background-color: #C5A7A5; height: 1px; border: 0; }
+
+.our-first-class { color: #C5A7A5; }
+
+h1 {font-family: questa-grande, serif; 
+    font-style: normal;
+    font-weight: 300;
+    text-align: left;}
+
+h4
+    {font-family: brandon-grotesque, sans-serif; 
+     font-style: normal;
+     font-weight: 300;
+     text-align: left;
+     color:#A67A76;
+     }
+
+.profile-pic {background-color:#DFD1D1;
+              padding:20px 20px 20px 20px;}
+
+
+p 
+    {text-align:justify;left;}
+
+
+
+
+
+
+
+
+
+   
+
+
+
